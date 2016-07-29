@@ -55,7 +55,7 @@ int main(void){
 			return 0;
 		}
 		
-		Sleep(1000);
+		Sleep(100);
 		//ContentsChecker(snake, &direction, food_coordinate);
 	}
 	
